@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_4812</name>
+   <tag></tag>
+   <elementGuidId>39f1d12a-a60b-4290-bfb6-34078e443751</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='products-pagesize']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#products-pagesize</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>929d925b-877b-4a8a-83ae-2feff5c561da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>products-pagesize</value>
+      <webElementGuid>ade422c3-bd52-4e8a-877e-2c761f47fe45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>products-pagesize</value>
+      <webElementGuid>2e446699-649c-4642-9282-d9b602ac4377</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>setLocation(this.value);</value>
+      <webElementGuid>6a6b9a3c-a741-4ded-bbc2-a793d333f65a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4
+8
+12
+</value>
+      <webElementGuid>58cedfba-8175-405b-adf3-1e421722b34b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;products-pagesize&quot;)</value>
+      <webElementGuid>66e6c220-45c0-4b94-8e12-1cdf63922e98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='products-pagesize']</value>
+      <webElementGuid>4a9348b3-4a9e-442f-8d01-9746d3001b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display'])[1]/following::select[1]</value>
+      <webElementGuid>3d0b3780-d8f2-403b-8722-5d3c73be9e2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by'])[1]/following::select[2]</value>
+      <webElementGuid>378fd5c5-b0a9-4562-a064-f3497dc13775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='per page'])[1]/preceding::select[1]</value>
+      <webElementGuid>413768ef-e5f0-4075-a8e5-9258574bf9d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter by price'])[1]/preceding::select[1]</value>
+      <webElementGuid>619a2cd0-fe22-47b4-8c6f-2bc0c927f7f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/select</value>
+      <webElementGuid>48b13591-daaa-4e46-af05-3f9070fc62c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'products-pagesize' and @name = 'products-pagesize' and (text() = '4
+8
+12
+' or . = '4
+8
+12
+')]</value>
+      <webElementGuid>32a0ec55-185e-4cfa-9aee-9d39394dba0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

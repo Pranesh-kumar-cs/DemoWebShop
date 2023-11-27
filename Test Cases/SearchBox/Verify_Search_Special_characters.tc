@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the search using special characters, numbers, or symbols in the search query.</description>
+   <name>Verify_Search_Special_characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a3c6546-d90d-47d7-8e9b-b4a46a9fbac2</testCaseGuid>
+</TestCaseEntity>

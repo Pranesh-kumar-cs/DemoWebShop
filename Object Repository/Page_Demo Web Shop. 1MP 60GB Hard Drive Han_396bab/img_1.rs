@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>54b840b5-c019-44a3-9d79-b958525f9f90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='product-details-form']/div/div[2]/div[2]/div[2]/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Picture of 50's Rockabilly Polka Dot Top JR Plus Size&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>86c30314-c733-48ec-abd8-a63557854d08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Picture of 50's Rockabilly Polka Dot Top JR Plus Size</value>
+      <webElementGuid>c51ec6f0-5b4e-41bf-993b-d06c3a8295ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demowebshop.tricentis.com/content/images/thumbs/0000018_50s-rockabilly-polka-dot-top-jr-plus-size_125.jpg</value>
+      <webElementGuid>98d07e7e-bfc9-47a8-9b95-0d1395f61fa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Show details for 50's Rockabilly Polka Dot Top JR Plus Size</value>
+      <webElementGuid>86f630a2-b05a-4b0f-94cc-0910f4a73169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-details-form&quot;)/div[1]/div[@class=&quot;product-collateral&quot;]/div[@class=&quot;also-purchased-products-grid product-grid&quot;]/div[@class=&quot;item-box&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;picture&quot;]/a[1]/img[1]</value>
+      <webElementGuid>e87cb20a-51ed-4e36-9280-6956bc3e8216</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='product-details-form']/div/div[2]/div[2]/div[2]/div/div/a/img</value>
+      <webElementGuid>55c4dad8-d7e1-4c4f-b582-8f93afcb1241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Picture of 50's Rockabilly Polka Dot Top JR Plus Size&quot;]</value>
+      <webElementGuid>cf150ba7-8462-47ee-9f52-ccbcbb4fb494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/img</value>
+      <webElementGuid>8afeafe5-8bc8-4c51-a1fb-61709d0c92f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = concat(&quot;Picture of 50&quot; , &quot;'&quot; , &quot;s Rockabilly Polka Dot Top JR Plus Size&quot;) and @src = 'https://demowebshop.tricentis.com/content/images/thumbs/0000018_50s-rockabilly-polka-dot-top-jr-plus-size_125.jpg' and @title = concat(&quot;Show details for 50&quot; , &quot;'&quot; , &quot;s Rockabilly Polka Dot Top JR Plus Size&quot;)]</value>
+      <webElementGuid>15d30ea3-5d79-4cac-aed2-6431b846a78b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

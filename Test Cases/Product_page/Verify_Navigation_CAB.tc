@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the redirection to related products or recommendations section on the product page.</description>
+   <name>Verify_Navigation_CAB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6f6cd34-0c3e-4c29-90fc-873e34226f8c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_You have no items in your shopping ca_bc5dba</name>
+   <tag></tag>
+   <elementGuidId>1abe202f-c0e9-4c5e-b4e7-992926f6f994</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value='Add to cart'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>eb7557f5-ba9a-4279-994a-8d75e6aadafb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1d733e23-ff96-4d50-a942-e8c751b734e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-2 product-box-add-to-cart-button</value>
+      <webElementGuid>0de2ebdf-6477-46e9-b5e8-7cbb36ed06b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Add to cart</value>
+      <webElementGuid>245b20c4-48e6-455d-b9c5-a2b8335e2be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;center-3&quot;]/div[@class=&quot;page home-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;product-grid home-page-product-grid&quot;]/div[@class=&quot;item-box&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;details&quot;]/div[@class=&quot;add-info&quot;]/div[@class=&quot;buttons&quot;]/input[@class=&quot;button-2 product-box-add-to-cart-button&quot;]</value>
+      <webElementGuid>ac03bfc6-ec78-43b3-ba24-a45bf310743c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>AjaxCart.addproducttocart_catalog('/addproducttocart/catalog/31/1/1    ');return false;</value>
+      <webElementGuid>718de2e5-9193-4ef5-9dbb-07999e1e308c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value='Add to cart'])[2]</value>
+      <webElementGuid>776f5165-e7fa-4997-aa7b-2ea5492c2bc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[3]/div[2]/input</value>
+      <webElementGuid>aecd0d9e-aa22-45f3-86fa-57e71f1cd90f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button']</value>
+      <webElementGuid>3bb536aa-f512-4286-8c58-3f35e5e0f38a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Search']</value>
+      <webElementGuid>af84a45f-69b7-46f6-9dc3-0d949b3b32e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input[2]</value>
+      <webElementGuid>59d50902-fa77-46b6-9af9-9cb0943b9270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>81aae164-ca19-47d1-a002-6ef095ba0e23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

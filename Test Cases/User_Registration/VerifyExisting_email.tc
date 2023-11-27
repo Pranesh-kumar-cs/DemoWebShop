@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Confirm that registration fails with an existing email.</description>
+   <name>VerifyExisting_email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fce9ff22-169c-474c-818d-445f972d5ab6</testCaseGuid>
+</TestCaseEntity>

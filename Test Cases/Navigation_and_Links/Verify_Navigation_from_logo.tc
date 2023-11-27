@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that clicking the website logo redirects users to the home page from any page.</description>
+   <name>Verify_Navigation_from_logo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f098a603-1aef-460b-a152-1595a7e4c421</testCaseGuid>
+</TestCaseEntity>

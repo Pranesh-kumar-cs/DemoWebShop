@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>c250272e-855b-469e-8897-7177003461a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='product-details-form']/div/div[2]/div[2]/div[3]/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Picture of Blue Jeans&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>58170044-bade-43d4-bb72-1ee06870dd82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Picture of Blue Jeans</value>
+      <webElementGuid>7bd349dc-339c-4875-b6b6-7a1eff23b8f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demowebshop.tricentis.com/content/images/thumbs/0000118_blue-jeans_125.jpeg</value>
+      <webElementGuid>4858a318-0207-4dff-8494-6ceb1b295393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Show details for Blue Jeans</value>
+      <webElementGuid>ee8b3d43-424f-4df8-a1e8-d5549ab31987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-details-form&quot;)/div[1]/div[@class=&quot;product-collateral&quot;]/div[@class=&quot;also-purchased-products-grid product-grid&quot;]/div[@class=&quot;item-box&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;picture&quot;]/a[1]/img[1]</value>
+      <webElementGuid>c7cba4ec-853d-4600-996e-6ce06126a04a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='product-details-form']/div/div[2]/div[2]/div[3]/div/div/a/img</value>
+      <webElementGuid>7f4b08a9-6de4-401e-897e-efe7738cc677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Picture of Blue Jeans']</value>
+      <webElementGuid>e5091a86-a272-4ba9-8409-57d62a245446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a/img</value>
+      <webElementGuid>a8ba599b-c1b6-4633-ae3d-77945f39e92f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Picture of Blue Jeans' and @src = 'https://demowebshop.tricentis.com/content/images/thumbs/0000118_blue-jeans_125.jpeg' and @title = 'Show details for Blue Jeans']</value>
+      <webElementGuid>55dae6b2-f66d-4ffc-9599-9b1917bd341a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

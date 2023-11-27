@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the cart's behavior with different combinations of products, quantities, and prices.</description>
+   <name>Verify_Cart_behavior_with_combination</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7dd2a087-a102-4006-bea2-7d343ff64633</testCaseGuid>
+</TestCaseEntity>

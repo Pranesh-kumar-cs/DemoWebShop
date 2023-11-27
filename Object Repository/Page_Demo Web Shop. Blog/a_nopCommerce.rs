@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_nopCommerce</name>
+   <tag></tag>
+   <elementGuidId>499292b0-2c45-4ee1-928f-d57c79f206e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'nopCommerce')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tags > ul > li:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>81edd7b6-4e96-4d82-8859-7c199e0dc5ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/blog/tag/nopCommerce</value>
+      <webElementGuid>642090cf-009f-4243-9d6e-04402aa3022a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>nopCommerce</value>
+      <webElementGuid>542c871b-b10b-41b5-92d3-71d62d8f4348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;center-2&quot;]/div[@class=&quot;page blog-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;blog-posts&quot;]/div[@class=&quot;post&quot;]/div[@class=&quot;tags&quot;]/ul[1]/li[3]/a[1]</value>
+      <webElementGuid>857c49b9-dd1c-4a70-b612-c7bb33654de6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'nopCommerce')])[2]</value>
+      <webElementGuid>83ca58a6-762a-4283-a071-31cf2ba3c018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=','])[1]/following::a[1]</value>
+      <webElementGuid>eb88fc79-d8e9-4078-9132-2aa18b17c693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e-commerce'])[2]/following::a[1]</value>
+      <webElementGuid>8e991fdd-0a38-42d8-ad6c-9a3e5d9eb308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=','])[2]/preceding::a[1]</value>
+      <webElementGuid>90c7362d-c4ea-41ff-ab2d-c0179bf7bfff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='asp.net'])[2]/preceding::a[1]</value>
+      <webElementGuid>65212ce9-b091-4367-bb5c-a48eee0147c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/blog/tag/nopCommerce')])[2]</value>
+      <webElementGuid>a105d144-c0b1-484f-87df-9c7434a53935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[3]/a</value>
+      <webElementGuid>6da6c21b-0d74-4b61-a5bf-dae5a5fccaeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/blog/tag/nopCommerce' and (text() = 'nopCommerce' or . = 'nopCommerce')]</value>
+      <webElementGuid>4610445f-d171-41a3-8f9c-cb97b4f1d9f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

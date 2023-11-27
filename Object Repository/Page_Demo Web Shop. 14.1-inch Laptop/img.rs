@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>255b52ec-5e8c-45e3-9118-6a0f6e4dfc85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='product-details-form']/div/div[2]/div[3]/div[2]/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Picture of Simple Computer&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b7ea4e49-444c-47b8-87c1-960089af644d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Picture of Simple Computer</value>
+      <webElementGuid>9e8104fe-ab50-43bb-834c-974179f1c61f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demowebshop.tricentis.com/content/images/thumbs/0000204_simple-computer_125.jpeg</value>
+      <webElementGuid>09a4e542-f2f5-49d0-94e6-068b236e6e38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Show details for Simple Computer</value>
+      <webElementGuid>fbcbd12f-e6e6-477c-ab08-ea2b53c6df44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-details-form&quot;)/div[1]/div[@class=&quot;product-collateral&quot;]/div[@class=&quot;also-purchased-products-grid product-grid&quot;]/div[@class=&quot;item-box&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;picture&quot;]/a[1]/img[1]</value>
+      <webElementGuid>d06d0a7c-ff37-4917-8295-7e5bb92c7faa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='product-details-form']/div/div[2]/div[3]/div[2]/div/div/a/img</value>
+      <webElementGuid>d12f5c37-85bb-49ec-9165-b0c7063a7995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Picture of Simple Computer']</value>
+      <webElementGuid>28b91624-13d9-45b0-a3a9-65156fd65923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/img</value>
+      <webElementGuid>2deb46b0-aed5-43bd-87ea-37a873cb6ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Picture of Simple Computer' and @src = 'https://demowebshop.tricentis.com/content/images/thumbs/0000204_simple-computer_125.jpeg' and @title = 'Show details for Simple Computer']</value>
+      <webElementGuid>383c10b0-7473-4f63-ac5d-e9b5d44a9bf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

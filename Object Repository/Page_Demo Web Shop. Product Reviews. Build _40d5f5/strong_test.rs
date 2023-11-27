@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_test</name>
+   <tag></tag>
+   <elementGuidId>00439d65-9de9-4377-a7a1-8d8da5b3f68c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[445]/following::strong[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>9be9ddd7-6328-4734-a620-656fb7671dd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>test</value>
+      <webElementGuid>1afaba3d-1612-4e85-adfd-cfaec2aeeb13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;center-2&quot;]/div[@class=&quot;page product-reviews-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;product-review-list&quot;]/div[@class=&quot;product-review-item&quot;]/div[@class=&quot;review-item-head&quot;]/div[@class=&quot;review-title&quot;]/strong[1]</value>
+      <webElementGuid>7a7d831e-14f0-45b8-b623-4ae3ef90f891</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[445]/following::strong[1]</value>
+      <webElementGuid>2b8fe73c-78e7-4e5a-87e0-f0405b04ad28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi thiss test'])[1]/preceding::strong[1]</value>
+      <webElementGuid>db851e50-57eb-4bda-b82e-3dbe1fec5e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[447]/div/div/strong</value>
+      <webElementGuid>418b959c-5b19-4174-8845-81f9d046d2b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'test' or . = 'test')]</value>
+      <webElementGuid>95cfd573-1c76-4f32-8553-da7ffe385e7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

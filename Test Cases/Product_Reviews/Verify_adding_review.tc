@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test adding a review for a product and verify it appears correctly.</description>
+   <name>Verify_adding_review</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>673f312d-997a-4991-aa6f-e5f4bce5fc25</testCaseGuid>
+</TestCaseEntity>

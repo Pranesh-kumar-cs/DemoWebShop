@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_GridList</name>
+   <tag></tag>
+   <elementGuidId>f3e7b5d6-00cb-438e-88ba-4fc5266c797c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='products-viewmode']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#products-viewmode</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f0039ed9-90ae-42cb-8bc1-757b6d09bd36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>products-viewmode</value>
+      <webElementGuid>bb0e3577-c5ae-4ea4-82f6-405703e25a88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>products-viewmode</value>
+      <webElementGuid>ec3a800c-84cb-47f2-8658-819b9e07a07e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>setLocation(this.value);</value>
+      <webElementGuid>8a2e6610-3cee-4534-ad9c-cb6af213afef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grid
+List
+</value>
+      <webElementGuid>4ca5fa60-cbd2-47f3-a628-f97e9c6c6de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;products-viewmode&quot;)</value>
+      <webElementGuid>d2dc5e29-161e-489f-882d-39f34ecb9653</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='products-viewmode']</value>
+      <webElementGuid>1b3c9c0c-6287-4aac-934e-95199b462212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View as'])[1]/following::select[1]</value>
+      <webElementGuid>62743e7f-89d4-4fc1-aa21-968fa8330fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Books'])[5]/following::select[1]</value>
+      <webElementGuid>36dc53ec-fcc6-424a-83a4-43a134737c27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by'])[1]/preceding::select[1]</value>
+      <webElementGuid>d971bed5-d3f3-42ae-9c9e-873eebce2f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display'])[1]/preceding::select[2]</value>
+      <webElementGuid>3a8be6f1-dba9-4785-aa61-5f5d28116832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>c0a07377-e212-4b46-bf6d-eadde8bcbf7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'products-viewmode' and @name = 'products-viewmode' and (text() = 'Grid
+List
+' or . = 'Grid
+List
+')]</value>
+      <webElementGuid>0d59eeb2-f259-4ff0-a2f7-40265eccb698</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_446                    review(s)</name>
+   <tag></tag>
+   <elementGuidId>48f3815d-4031-4552-b683-650c56bb32d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='product-details-form']/div/div/div[2]/div[5]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-review-links > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bb290c4b-77c3-4d42-9547-92d668e9faee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/productreviews/72</value>
+      <webElementGuid>6b03620b-302e-4f7e-a79a-4ab8da76663a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>446
+                    review(s)</value>
+      <webElementGuid>f4e380b4-0af8-4528-9cb9-68b267afcbba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-details-form&quot;)/div[1]/div[@class=&quot;product-essential&quot;]/div[@class=&quot;overview&quot;]/div[@class=&quot;product-reviews-overview&quot;]/div[@class=&quot;product-review-links&quot;]/a[1]</value>
+      <webElementGuid>c96db2e8-9196-47ca-9447-4bf9f6513376</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='product-details-form']/div/div/div[2]/div[5]/div[2]/a</value>
+      <webElementGuid>d217b078-1951-41ec-8c43-77a39c782d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'446
+                    review(s)')]</value>
+      <webElementGuid>c267f481-eb65-48a2-8ddc-91a5e707e111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free shipping'])[1]/following::a[1]</value>
+      <webElementGuid>fc1246a1-6158-462d-8b62-c5c8f1c4aaab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In stock'])[1]/following::a[1]</value>
+      <webElementGuid>0c27663c-f8e7-4078-acdd-7c4fa6b50ddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::a[1]</value>
+      <webElementGuid>de92801d-2238-4c34-9043-479094ae91ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add your review'])[1]/preceding::a[1]</value>
+      <webElementGuid>bda96127-d601-4543-a35d-fe2912ede915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/productreviews/72')]</value>
+      <webElementGuid>c3e3c09e-1f7a-4789-88ac-a288e2efdc51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>44c4f6d5-5fe2-4b19-89aa-6bc5471ffb53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/productreviews/72' and (text() = '446
+                    review(s)' or . = '446
+                    review(s)')]</value>
+      <webElementGuid>a814a4e8-c367-490e-a652-350017bc9ae6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

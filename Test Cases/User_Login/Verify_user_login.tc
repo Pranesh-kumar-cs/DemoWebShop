@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Confirm registered users can log in with correct credentials</description>
+   <name>Verify_user_login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10ad38a4-0007-45f5-97d6-e205dfc86235</testCaseGuid>
+</TestCaseEntity>

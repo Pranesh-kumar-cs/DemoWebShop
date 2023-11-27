@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check that clicking on a product from search results navigates to the correct product page.</description>
+   <name>Verify_navigation_from_PLP_to_PDP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>795c0a4c-b487-4f3e-bafb-a584a687b1cc</testCaseGuid>
+</TestCaseEntity>

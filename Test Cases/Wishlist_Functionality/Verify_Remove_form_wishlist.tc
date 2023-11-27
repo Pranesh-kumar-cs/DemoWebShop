@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Remove items from the wishlist and confirm they are removed correctly.</description>
+   <name>Verify_Remove_form_wishlist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d258bd33-1a5f-460c-af7c-b4a648b0850e</testCaseGuid>
+</TestCaseEntity>

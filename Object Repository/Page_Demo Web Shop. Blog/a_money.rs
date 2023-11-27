@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_money</name>
+   <tag></tag>
+   <elementGuidId>b64d6109-af85-479c-8cac-b68d987961b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'money')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.tags > li:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f1dad6d6-1d3c-41da-8ede-9d63d372d019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/blog/tag/money</value>
+      <webElementGuid>39c0c6af-7db4-44b6-8398-6cca9a270f18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>money</value>
+      <webElementGuid>c0d94c0a-c8e3-48ff-ac25-c055e180a0f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;side-2&quot;]/div[@class=&quot;block block-popular-blogtags&quot;]/div[@class=&quot;listbox&quot;]/ul[@class=&quot;tags&quot;]/li[3]/a[1]</value>
+      <webElementGuid>ce1fd6ec-1dcd-40a1-948d-2aaf0287f8b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'money')]</value>
+      <webElementGuid>1fc5f3c3-a94b-4207-8462-b9356ac16b41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e-commerce'])[1]/following::a[1]</value>
+      <webElementGuid>f182d0e5-650f-4703-bf06-f3870c5bb873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='asp.net'])[1]/following::a[2]</value>
+      <webElementGuid>796055ad-f868-4ff1-9dbb-69dd66eb5e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nopCommerce'])[1]/preceding::a[1]</value>
+      <webElementGuid>68b80c3a-29ff-483e-9ca2-d196dbeb65e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sample tag'])[1]/preceding::a[2]</value>
+      <webElementGuid>b11c820f-7daa-49fa-ba39-11ff96a2c917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='money']/parent::*</value>
+      <webElementGuid>947297c4-405e-49cf-bff8-686522dd0825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/blog/tag/money')]</value>
+      <webElementGuid>646eb19a-5bd2-4587-930e-ef9912fe22bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/ul/li[3]/a</value>
+      <webElementGuid>395a4159-08ef-4937-b8ac-cbda631abff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/blog/tag/money' and (text() = 'money' or . = 'money')]</value>
+      <webElementGuid>08a2f963-700a-4a99-9c25-1bb2289e6abe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

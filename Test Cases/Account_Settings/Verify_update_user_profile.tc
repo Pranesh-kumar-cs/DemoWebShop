@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test updating user profile information (name, address, contact details).</description>
+   <name>Verify_update_user_profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec36f485-fe4e-4d89-bf34-61d1bb6a3888</testCaseGuid>
+</TestCaseEntity>

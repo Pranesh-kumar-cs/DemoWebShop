@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_The product has been added to your shopping cart</name>
+   <tag></tag>
+   <elementGuidId>d48e28d5-7d9c-44c5-b49c-3733bf096722</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bar-notification']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>bb4db9d4-7cd4-43e6-87e6-b61449ec5b6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>be71c1fa-9fcb-4b0d-9a29-4e2dc411be23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The product has been added to your shopping cart</value>
+      <webElementGuid>d57c1c35-4728-4d27-9e32-ed231212c627</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bar-notification&quot;)/p[@class=&quot;content&quot;]</value>
+      <webElementGuid>4f75b6c1-1158-4f6b-b4ca-dac6e94676b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bar-notification']/p</value>
+      <webElementGuid>bcccbcf6-5264-412e-830e-77ec2500c143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::p[1]</value>
+      <webElementGuid>0ea3f16e-5e2e-4dd6-b5af-01b0f54947e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The product has been added to your']/parent::*</value>
+      <webElementGuid>cdb61292-747a-4c57-af1e-ead14e076a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>4a623025-c329-4ab0-b673-a3d3a884825a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'The product has been added to your shopping cart' or . = 'The product has been added to your shopping cart')]</value>
+      <webElementGuid>044eefdc-266f-42f8-b11d-fc416bc78978</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

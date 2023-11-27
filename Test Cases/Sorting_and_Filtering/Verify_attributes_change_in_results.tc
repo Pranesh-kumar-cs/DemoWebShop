@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test filtering by product attributes (size, color, etc.) and ensure accurate results.</description>
+   <name>Verify_attributes_change_in_results</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40ed00db-1ce0-463e-9748-5d5126e745e3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proceed to checkout with items in the cart and verify the correct total amount.</description>
+   <name>Verify_checkout_from_Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80c967e0-cfda-4304-a714-2175e5d6fa03</testCaseGuid>
+</TestCaseEntity>

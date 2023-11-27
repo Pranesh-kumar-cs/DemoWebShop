@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Only registered users can write reviews</name>
+   <tag></tag>
+   <elementGuidId>831d05de-e758-4b2c-aa73-47f2e0ce1048</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='review-form']/form/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.validation-summary-errors > ul > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>e518c8f5-631e-44d3-9dfe-0505b2e79198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Only registered users can write reviews</value>
+      <webElementGuid>2c9bbf91-208e-411c-bacc-de1e9fb8b588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;review-form&quot;)/form[1]/div[@class=&quot;message-error&quot;]/div[@class=&quot;validation-summary-errors&quot;]/ul[1]/li[1]</value>
+      <webElementGuid>ada5c2ee-bca7-4600-b9e0-065579958f27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='review-form']/form/div/div/ul/li</value>
+      <webElementGuid>d5b376e4-9ad9-454d-8f16-1b11a4dff174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write your own review'])[1]/following::li[1]</value>
+      <webElementGuid>b4b0d42f-99ac-4e2e-83d8-5abfe574aace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review title:'])[1]/preceding::li[1]</value>
+      <webElementGuid>8942e6b9-0e77-4227-8ac0-e11eb4b92507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review text:'])[1]/preceding::li[1]</value>
+      <webElementGuid>5d725475-def3-493a-80a1-65d3c4bee7a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Only registered users can write reviews']/parent::*</value>
+      <webElementGuid>d2c54557-c241-4f14-b228-d8f8faa817c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/ul/li</value>
+      <webElementGuid>87fb8600-e1a6-422c-b38c-a0f24a46a57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Only registered users can write reviews' or . = 'Only registered users can write reviews')]</value>
+      <webElementGuid>266fc9a0-38be-4ac6-a06b-faef4eca977c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

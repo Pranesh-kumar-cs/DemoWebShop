@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search for a product using its name and verify relevant results are displayed.</description>
+   <name>Verify_search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1b8efe5-2027-4bc1-9da0-dff1718df0c5</testCaseGuid>
+</TestCaseEntity>

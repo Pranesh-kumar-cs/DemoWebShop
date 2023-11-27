@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ensure that reviews display the date and user details accurately.</description>
+   <name>Verify_Review_filters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aae44b4f-55f8-4e86-8f9e-eda698bce876</testCaseGuid>
+</TestCaseEntity>

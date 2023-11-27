@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_asp.net</name>
+   <tag></tag>
+   <elementGuidId>3ae77bfa-cf41-47f8-9337-3e6edf6e4729</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'asp.net')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.tags > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a6a5c5f7-286a-4483-abad-6c422eab0f32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/blog/tag/asp.net</value>
+      <webElementGuid>d46edd64-372c-48cb-9a79-93fa342952eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>asp.net</value>
+      <webElementGuid>251fbc6f-ae4d-4563-8ad8-7d4435327714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;side-2&quot;]/div[@class=&quot;block block-popular-blogtags&quot;]/div[@class=&quot;listbox&quot;]/ul[@class=&quot;tags&quot;]/li[1]/a[1]</value>
+      <webElementGuid>8ff873b7-1ea8-42bc-a178-e34a1ef4eb4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'asp.net')]</value>
+      <webElementGuid>c44f1b60-9362-42b2-a59e-424f45ea051b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular blog tags'])[1]/following::a[1]</value>
+      <webElementGuid>7469f597-82a8-4b5a-8229-16f4099d971c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e-commerce'])[1]/preceding::a[1]</value>
+      <webElementGuid>ffd4e572-5bee-47b8-a698-b26903579598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='money'])[1]/preceding::a[2]</value>
+      <webElementGuid>28404fba-c308-4e95-9a71-7a75cc624f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='asp.net']/parent::*</value>
+      <webElementGuid>6dd99912-2853-4a60-b75f-9dd2988f209c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/blog/tag/asp.net')]</value>
+      <webElementGuid>49ca5ef6-c7fe-479e-b368-f47ae0a875bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/ul/li/a</value>
+      <webElementGuid>27337ed2-ccd0-4fa6-a251-7da5fc803a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/blog/tag/asp.net' and (text() = 'asp.net' or . = 'asp.net')]</value>
+      <webElementGuid>2963e817-5cfd-4510-9890-b76f91bc4490</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

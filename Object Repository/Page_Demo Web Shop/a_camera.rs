@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_camera</name>
+   <tag></tag>
+   <elementGuidId>26578c9b-5e22-4b97-bda4-a5f0d9f7bd62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'camera')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tags > ul > li:nth-of-type(4) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>16a1df4a-04cb-4e54-8d23-8100341322ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/producttag/13/camera</value>
+      <webElementGuid>2985572e-1a72-4be2-9991-6a08f384d3c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>camera</value>
+      <webElementGuid>939abdc0-4947-4469-9b45-7fe6577512e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;leftside-3&quot;]/div[@class=&quot;block block-popular-tags&quot;]/div[@class=&quot;listbox&quot;]/div[@class=&quot;tags&quot;]/ul[1]/li[4]/a[1]</value>
+      <webElementGuid>3d5310a4-db1c-427c-8299-f750b89d0e4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'camera')]</value>
+      <webElementGuid>0bcb2b76-0671-48fe-9de3-c5460123af8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='book'])[1]/following::a[1]</value>
+      <webElementGuid>a3b738b7-2e0c-44a1-a3f8-a7a19c564938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='awesome'])[1]/following::a[2]</value>
+      <webElementGuid>b3975f80-0074-48d7-a602-97f234d87ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cell'])[1]/preceding::a[1]</value>
+      <webElementGuid>bde694af-6842-453d-be53-c3a8c4a93fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='compact'])[1]/preceding::a[2]</value>
+      <webElementGuid>838630ea-0c2a-4e66-9721-a27491ba1c9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='camera']/parent::*</value>
+      <webElementGuid>f50f3979-2d21-4d78-ad79-cb9a9f87bdac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/producttag/13/camera')]</value>
+      <webElementGuid>87829394-c0ca-4240-a6e0-8819fad4fb65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/ul/li[4]/a</value>
+      <webElementGuid>c1933520-084c-4ae7-8886-ab7a9fd29fb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/producttag/13/camera' and (text() = 'camera' or . = 'camera')]</value>
+      <webElementGuid>99683c83-da54-4a85-bf9b-32260d42940e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

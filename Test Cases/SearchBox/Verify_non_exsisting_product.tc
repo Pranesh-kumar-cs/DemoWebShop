@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Perform a search with a non-existing product name and ensure a proper error message is shown.</description>
+   <name>Verify_non_exsisting_product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5af85857-775f-4cec-98c4-0499fa1a515c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate different payment methods (credit card, PayPal, etc.) for a successful transaction.</description>
+   <name>Verify_payment_options</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84f048a3-d02c-40b7-8480-585577212307</testCaseGuid>
+</TestCaseEntity>

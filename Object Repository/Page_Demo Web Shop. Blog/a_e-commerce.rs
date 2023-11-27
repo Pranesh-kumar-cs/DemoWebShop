@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_e-commerce</name>
+   <tag></tag>
+   <elementGuidId>a489805f-8bde-4da0-afc5-190e39a129f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'e-commerce')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.tags > li:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0b93ab71-9a85-4349-90d2-6a327c28ee04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/blog/tag/e-commerce</value>
+      <webElementGuid>90a48c34-c985-433e-b442-d6b5ca9dc99d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>e-commerce</value>
+      <webElementGuid>7db314e9-b1b7-4586-908b-1c72fbedae35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;side-2&quot;]/div[@class=&quot;block block-popular-blogtags&quot;]/div[@class=&quot;listbox&quot;]/ul[@class=&quot;tags&quot;]/li[2]/a[1]</value>
+      <webElementGuid>527bfb15-d13e-4ed6-ad82-edd69ab81d27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'e-commerce')]</value>
+      <webElementGuid>dde27c88-e03b-4f75-960d-61b7fca6c6dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='asp.net'])[1]/following::a[1]</value>
+      <webElementGuid>c1760873-31c1-4a61-9145-a9aa6e67a0a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular blog tags'])[1]/following::a[2]</value>
+      <webElementGuid>8aa6704c-79be-4220-9cbb-751d9cc180bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='money'])[1]/preceding::a[1]</value>
+      <webElementGuid>00851b22-a038-4e8a-8d46-0c03188abd17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nopCommerce'])[1]/preceding::a[2]</value>
+      <webElementGuid>f711b999-7ada-48a6-8e77-8f5fed1594fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='e-commerce']/parent::*</value>
+      <webElementGuid>f82347fb-2568-42c0-a7e2-e55a60d4e627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/blog/tag/e-commerce')]</value>
+      <webElementGuid>04589e22-22cc-44ae-b469-fdc030ca4858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/ul/li[2]/a</value>
+      <webElementGuid>15b20c45-acb0-41c1-addf-250986bda2c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/blog/tag/e-commerce' and (text() = 'e-commerce' or . = 'e-commerce')]</value>
+      <webElementGuid>3f81f0f0-53ed-4e71-8a4d-6f389c21d9fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

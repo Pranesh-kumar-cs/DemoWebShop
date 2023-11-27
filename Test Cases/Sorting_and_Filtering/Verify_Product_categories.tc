@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filter products by categories and validate that only relevant items are displayed.</description>
+   <name>Verify_Product_categories</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c92f6a2a-7d14-47ce-ad0f-5a0bb00bed4e</testCaseGuid>
+</TestCaseEntity>

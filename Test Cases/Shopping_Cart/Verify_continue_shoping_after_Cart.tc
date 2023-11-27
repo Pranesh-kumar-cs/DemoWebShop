@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check the &quot;Continue Shopping&quot; option and its functionality.</description>
+   <name>Verify_continue_shoping_after_Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34a0a7b9-05ba-44d2-9976-f7bdea54a008</testCaseGuid>
+</TestCaseEntity>

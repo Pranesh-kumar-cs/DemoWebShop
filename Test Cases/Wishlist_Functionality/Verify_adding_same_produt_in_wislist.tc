@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test adding the same product to the wishlist multiple times.</description>
+   <name>Verify_adding_same_produt_in_wislist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2316bac9-1c5f-46c9-b96d-5c7732b90c0d</testCaseGuid>
+</TestCaseEntity>

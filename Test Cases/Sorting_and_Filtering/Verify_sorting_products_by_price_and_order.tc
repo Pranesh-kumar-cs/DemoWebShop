@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test sorting products by price (low to high, high to low) and verify the order.</description>
+   <name>Verify_sorting_products_by_price_and_order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4dd36dde-efbb-4047-afd1-89a456c2f97b</testCaseGuid>
+</TestCaseEntity>

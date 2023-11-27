@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add multiple products to the cart and verify quantities are correctly updated.</description>
+   <name>Verify_add_multiple_products</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e0a865d-f051-4956-998f-31f416ed39ba</testCaseGuid>
+</TestCaseEntity>

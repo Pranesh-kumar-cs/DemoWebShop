@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_July                                    (2)</name>
+   <tag></tag>
+   <elementGuidId>7bf74e93-3fa4-4fb0-b4ba-e8138358733d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='blog-year-2014']/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.month > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>83ef616b-c1de-4b1c-98a1-122c103194e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/blog/month/2014-7</value>
+      <webElementGuid>ecf8deae-37d8-468a-967e-9f233d6a4374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>July
+                                    (2)</value>
+      <webElementGuid>4667f502-97b4-4054-b08c-5a68018d8547</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;blog-year-2014&quot;)/li[@class=&quot;month&quot;]/a[1]</value>
+      <webElementGuid>55f8db8a-654e-4a94-8f1e-5eb78976a3ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='blog-year-2014']/li/a</value>
+      <webElementGuid>763a4e88-2936-4aff-8899-63ad565eca08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'July
+                                    (2)')]</value>
+      <webElementGuid>d048f21e-e950-4db5-9664-989e375beae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog archive'])[1]/following::a[1]</value>
+      <webElementGuid>4986a427-1a99-4053-8255-318a3850c714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gift Cards'])[2]/following::a[1]</value>
+      <webElementGuid>dbfad845-fb50-4ea6-b2cf-b1dec0a195c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular blog tags'])[1]/preceding::a[1]</value>
+      <webElementGuid>e11c0f48-81bf-4ada-92f2-5eac61a04422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='asp.net'])[1]/preceding::a[1]</value>
+      <webElementGuid>2878e629-78e2-45db-a930-a95d196ae8ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/blog/month/2014-7')]</value>
+      <webElementGuid>355a2bae-3a75-4c6d-964c-2b4b3c734afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/ul/li/ul/li/a</value>
+      <webElementGuid>a308b453-be28-46c3-b033-d8b631f8ea0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/blog/month/2014-7' and (text() = 'July
+                                    (2)' or . = 'July
+                                    (2)')]</value>
+      <webElementGuid>5adfef6a-859f-4502-9fd4-21673e839805</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

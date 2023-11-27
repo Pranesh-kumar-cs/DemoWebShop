@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test registration form validation by entering invalid data</description>
+   <name>VerifyRegistraion_with_invalid_Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2e3f65a-8c33-46aa-a665-60a91f1fa192</testCaseGuid>
+</TestCaseEntity>

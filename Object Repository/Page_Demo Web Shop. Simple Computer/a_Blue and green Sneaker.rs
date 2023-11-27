@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Blue and green Sneaker</name>
+   <tag></tag>
+   <elementGuidId>5a2fafff-2b90-44a0-9844-7fb40da304cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='product-details-form']/div/div[2]/div[2]/div[3]/div/div[2]/h2/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>db648713-d805-4f0b-a89c-2d61b6f9ca3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/blue-and-green-sneaker</value>
+      <webElementGuid>23fc18e0-794e-43cd-ab50-27dbe9414442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blue and green Sneaker</value>
+      <webElementGuid>6c25f50a-3b13-4d77-96f8-8e6f4816f8e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-details-form&quot;)/div[1]/div[@class=&quot;product-collateral&quot;]/div[@class=&quot;also-purchased-products-grid product-grid&quot;]/div[@class=&quot;item-box&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;details&quot;]/h2[@class=&quot;product-title&quot;]/a[1]</value>
+      <webElementGuid>0402181a-3b3b-4df8-a727-2858f17ac58f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='product-details-form']/div/div[2]/div[2]/div[3]/div/div[2]/h2/a</value>
+      <webElementGuid>52f102f5-a63b-4cb1-94af-e0aa680f19d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Blue and green Sneaker')]</value>
+      <webElementGuid>4cd1b7aa-314c-49bd-be45-8473027030ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Build it'])[2]/following::a[2]</value>
+      <webElementGuid>756b751a-1368-41c5-9e1e-47b026745ea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Build your own expensive computer'])[1]/following::a[2]</value>
+      <webElementGuid>31085296-336e-4e65-9174-a3fb7f4c8d3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This sleek shoe has all you need for a stylish outfit'])[1]/preceding::a[1]</value>
+      <webElementGuid>fd355594-ef80-4d14-9319-09972c9b6458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unique Asian-influenced imprint wraps the laptop both inside and out'])[1]/preceding::a[3]</value>
+      <webElementGuid>0a703e40-40df-4efb-ab3f-1d12d9771aa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Blue and green Sneaker']/parent::*</value>
+      <webElementGuid>b334f4a3-2e14-40c9-b194-ec62793c92de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/blue-and-green-sneaker')])[2]</value>
+      <webElementGuid>3f53c31f-0881-4889-abee-24953dc8d194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/h2/a</value>
+      <webElementGuid>454d6830-39fb-40c8-b91e-8a5e56a923cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/blue-and-green-sneaker' and (text() = 'Blue and green Sneaker' or . = 'Blue and green Sneaker')]</value>
+      <webElementGuid>1ea55c03-be62-4b71-b42c-3caa5e1c5c58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
