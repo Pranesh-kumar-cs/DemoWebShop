@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ca7ba86c-9e8b-4993-977b-e7bde74a64f2</webElementGuid>
+      <webElementGuid>c05f2703-b65c-492b-ad83-8480c48b6a0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/customer/info</value>
-      <webElementGuid>ea8b3186-1876-4598-9abb-ed20a2f1c4c7</webElementGuid>
+      <webElementGuid>5ef42561-c4a1-4cb8-bba8-ecd4fb557687</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>account</value>
-      <webElementGuid>a8e074cd-ee6b-4814-85b8-c023b6393f60</webElementGuid>
+      <webElementGuid>9aafa3a6-0890-477f-93b5-f0161fa4ae17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Testabcxyz1234@test.com</value>
-      <webElementGuid>07bbd6f5-9feb-413a-bcba-b61f808703b9</webElementGuid>
+      <webElementGuid>03fcc06e-2140-448f-a4f0-9ad0e7e65be0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;header-links-wrapper&quot;]/div[@class=&quot;header-links&quot;]/ul[1]/li[1]/a[@class=&quot;account&quot;]</value>
-      <webElementGuid>91e7df6c-5358-470c-b14e-e1704bdbb410</webElementGuid>
+      <webElementGuid>0cfc8c8f-0b66-458f-90cf-175eeabf7286</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Testabcxyz1234@test.com')]</value>
-      <webElementGuid>3371eceb-c49f-4b1b-a3df-19a1b9f1b37b</webElementGuid>
+      <webElementGuid>9ee1e9d6-b983-4fad-bb1f-0275478ee619</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log out'])[1]/preceding::a[1]</value>
-      <webElementGuid>5ad78385-cab7-485a-bfd0-c17b544ca00b</webElementGuid>
+      <webElementGuid>c3fefa63-c017-4fba-a543-94aa6eefd657</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping cart'])[1]/preceding::a[2]</value>
-      <webElementGuid>edcf8e7c-1329-4e7c-9267-7f939ad280d8</webElementGuid>
+      <webElementGuid>ad130b5c-dd7d-441b-8bad-c605c266adcf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Testabcxyz1234@test.com']/parent::*</value>
-      <webElementGuid>1adde849-d053-4976-985c-760354f0e14c</webElementGuid>
+      <webElementGuid>b374cc17-38ad-4701-93e0-b351031910bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/customer/info')]</value>
-      <webElementGuid>57de6cb5-6df8-4a39-bb7f-a4cfe8db21c6</webElementGuid>
+      <webElementGuid>a73f8ccb-66fc-4b48-8349-5494c584bd13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>276b3bc4-794f-4ad0-8405-3458d1468298</webElementGuid>
+      <webElementGuid>a6947fb7-f688-4a69-8d03-c438a66fa045</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/customer/info' and (text() = 'Testabcxyz1234@test.com' or . = 'Testabcxyz1234@test.com')]</value>
-      <webElementGuid>c8c32df2-d5c1-4328-8b95-d532ede8aeed</webElementGuid>
+      <webElementGuid>cda3d460-432b-4adc-b7f6-abe1df00b5a6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

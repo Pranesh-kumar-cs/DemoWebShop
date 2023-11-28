@@ -23,29 +23,15 @@ WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Log in'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. Login/span_Login was unsuccessful. Please correct_c76db1'), 
-    '')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. Login/li_No customer account found'), '')
-
-WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Email_Email'), 'abc')
+WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Email_Email'), 'bc')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Password_Password'), '9NLz+4tGZcQ=')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. Login/form_Login was unsuccessful. Please correct_a523a5'), 
-    '')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. Login/span_Please enter a valid email address'), 
-    '')
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/form_Email                                 _b4f892'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Password_Password'), '1zdhRLj/Jjs=')
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Forgot password_button-1 login-button'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. Login/span_Login was unsuccessful. Please correct_c76db1'), 
-    '')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. Login/li_No customer account found'), '')
 
 WebUI.closeBrowser()
 

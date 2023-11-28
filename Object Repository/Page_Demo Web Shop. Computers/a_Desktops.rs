@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//a[contains(text(),'Desktops')])[3]</value>
+         <value>(//a[contains(text(),'Desktops')])[4]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>ul.sublist > li.inactive > a</value>
+         <value>a[title=&quot;Show products in category Desktops&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ac30cf82-48bc-47c3-a4d5-324768f261e0</webElementGuid>
+      <webElementGuid>71c848f8-c4b6-42de-8da8-5022686e0507</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,27 +30,101 @@
       <name>href</name>
       <type>Main</type>
       <value>/desktops</value>
-      <webElementGuid>2fc25411-e020-4a4d-820c-720fdbadeb3f</webElementGuid>
+      <webElementGuid>c655eb5f-7423-47a2-a999-bdb887033194</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Desktops
-        </value>
-      <webElementGuid>7ff565f5-cc7b-4d6c-9bf3-0b2da9c9ec44</webElementGuid>
+      <value>
+                                    Desktops</value>
+      <webElementGuid>11293e48-ae5b-4f13-9da9-63de45ded49a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;side-2&quot;]/div[@class=&quot;block block-category-navigation&quot;]/div[@class=&quot;listbox&quot;]/ul[@class=&quot;list&quot;]/li[@class=&quot;active&quot;]/ul[@class=&quot;sublist&quot;]/li[@class=&quot;inactive&quot;]/a[1]</value>
-      <webElementGuid>7fa9695e-b223-4af0-ab1c-545253830898</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;center-2&quot;]/div[@class=&quot;page category-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;sub-category-grid&quot;]/div[@class=&quot;item-box&quot;]/div[@class=&quot;sub-category-item&quot;]/h2[@class=&quot;title&quot;]/a[1]</value>
+      <webElementGuid>e119ab62-0239-462b-9b73-002b99098051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Show products in category Desktops</value>
+      <webElementGuid>23a5532c-621f-4316-9335-a5631b4b5577</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Desktops')])[4]</value>
+      <webElementGuid>d9eb4a0b-36d3-4baa-b68d-c87ad6e16878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Computers'])[5]/following::a[1]</value>
+      <webElementGuid>24c85ee5-8fab-4d2c-a7ce-61b327e21aff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Computers'])[4]/following::a[1]</value>
+      <webElementGuid>792e7d3e-5534-4651-abf8-c0d68d6e565d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notebooks'])[4]/preceding::a[2]</value>
+      <webElementGuid>7a8ab01e-f790-4efc-a974-39c2d0bdce30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessories'])[4]/preceding::a[4]</value>
+      <webElementGuid>c8012325-18c4-468c-a8c6-ca183a3821d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/desktops')])[4]</value>
+      <webElementGuid>3aaf1704-00e9-4729-a887-d09ad94ffb3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>16635b80-f1c9-4fa9-a749-bf6ebc6a2c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/desktops' and @title = 'Show products in category Desktops' and (text() = '
+                                    Desktops' or . = '
+                                    Desktops')]</value>
+      <webElementGuid>d47df067-b537-4cb6-a7cb-888e4153dd40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>

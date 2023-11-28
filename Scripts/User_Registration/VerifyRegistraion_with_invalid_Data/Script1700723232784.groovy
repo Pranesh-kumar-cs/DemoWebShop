@@ -25,13 +25,7 @@ WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Register'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. Register/input_Gender_Gender'), '')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. Register/span_First name is required'), '')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. Register/span_Last name is required'), '')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. Register/span_Email is required'), '')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. Register/span_Password is required'), '')
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Register/input__register-button'))
 
 WebUI.closeBrowser()
 

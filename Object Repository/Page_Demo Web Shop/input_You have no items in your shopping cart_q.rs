@@ -6,12 +6,12 @@
    <elementGuidId>aa0aa7d2-d665-4f52-86af-5ccec8633f4a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#small-searchterms</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='small-searchterms']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#small-searchterms</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d8a0fb4f-1d84-42ea-be4c-bc456e3d9520</webElementGuid>
+      <webElementGuid>797c7939-a1b9-4905-a3f0-19589680093e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c86b9322-2e6d-4d16-b5fc-f4162ec476fd</webElementGuid>
+      <webElementGuid>2f58991f-b90b-4eb8-9935-c88d7f94e0cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>search-box-text ui-autocomplete-input</value>
-      <webElementGuid>135a62eb-4b65-4762-bfdc-4b218878c14c</webElementGuid>
+      <webElementGuid>5b8e9c3f-f7a2-4826-a4a0-818c89188093</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>small-searchterms</value>
-      <webElementGuid>04de3dd2-a7df-4152-9b21-340d566838e0</webElementGuid>
+      <webElementGuid>0be432f0-d923-4a19-851c-7d5950068c05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>08eac794-28ff-4946-96ec-33af5d53b266</webElementGuid>
+      <webElementGuid>2a19e7bd-b423-4bf5-99ca-334ba2a5eb37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Search store</value>
-      <webElementGuid>c0fd345d-9c2e-4670-85ea-98154b392169</webElementGuid>
+      <webElementGuid>949a69d7-b941-4f17-bf16-593ccdc8f4b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>q</value>
-      <webElementGuid>035c0425-48fc-4c36-ba65-9932651199e9</webElementGuid>
+      <webElementGuid>bf6c00d0-b138-48db-b7ff-373fe94d97ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;small-searchterms&quot;)</value>
-      <webElementGuid>96e6a95d-bad7-4b69-a756-39b6570d8087</webElementGuid>
+      <webElementGuid>cbfbc5f2-deef-424c-8019-00ee2a371ca3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='small-searchterms']</value>
-      <webElementGuid>c0852c49-271b-4695-9764-d6a3060f38d2</webElementGuid>
+      <webElementGuid>f3829f9d-2dc4-4e55-9b1a-559903da61dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>e85e287c-df64-4107-bc17-e343c6dcc463</webElementGuid>
+      <webElementGuid>625fae30-c7ce-4e33-86c3-f3d8493b6ecd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'small-searchterms' and @name = 'q']</value>
-      <webElementGuid>1cbc2612-9c9b-40b6-beab-e7c3a18bad3d</webElementGuid>
+      <webElementGuid>648e8b3f-d61b-4339-8433-ab229b6f4fc6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

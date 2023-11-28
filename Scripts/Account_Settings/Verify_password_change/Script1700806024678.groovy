@@ -29,24 +29,34 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Log
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Forgot password_button-1 login-button'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/div_Testabcxyz1234test.com            Log o_e397a5'))
-
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Testabcxyz1234test.com'))
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Account/a_Change password'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_Old password_OldPassword'), 'cvW8qx4B2o3F4VwP/kNsqA==')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_New password_NewPassword'), 'D7Y+m3IaFBbsNDk26VHqfg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_New password_NewPassword'), 'cvW8qx4B2o1WegCEDy41Xg==')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_Confirm password_ConfirmNewPassword'), 
-    'D7Y+m3IaFBbsNDk26VHqfg==')
+    'cvW8qx4B2o1WegCEDy41Xg==')
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_Fax number_button-1 save-address-button'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Account/div_Password was changed'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Account/a_Log out'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_Old password_OldPassword'), 'D7Y+m3IaFBbsNDk26VHqfg==')
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Log in'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Email_Email'), 'testabcxyz1234@test.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Password_Password'), 'cvW8qx4B2o1WegCEDy41Xg==')
+
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Forgot password_button-1 login-button'))
+
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Testabcxyz1234test.com'))
+
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Account/a_Change password'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_Old password_OldPassword'), 'cvW8qx4B2o1WegCEDy41Xg==')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_New password_NewPassword'), 'cvW8qx4B2o3F4VwP/kNsqA==')
 
@@ -56,18 +66,6 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Acc
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_Fax number_button-1 save-address-button'))
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Account/a_Log out'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Log in'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/div_Returning Customer                     _75c726'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Email_Email'), 'testabcxyz1234@test.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Password_Password'), 'cvW8qx4B2o3F4VwP/kNsqA==')
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Forgot password_button-1 login-button'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Log out'))
 
 WebUI.closeBrowser()
 

@@ -37,27 +37,5 @@ WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/button_Checkout'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input_Fax number_button-1 new-address-next-_2f210c'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input_Fax number_button-1 new-address-next-_2f210c'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input__button-1 shipping-method-next-step-button'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/div_Check  Money Order (5.00)'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input_Cash On Delivery (COD) (7.00)_paymentmethod'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input__button-1 shipping-method-next-step-button'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input__button-1 shipping-method-next-step-button'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/h2_Confirm order'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/strong_1595.00'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input__button-1 shipping-method-next-step-button'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/li_Order number 1552940'))
-
 WebUI.closeBrowser()
 

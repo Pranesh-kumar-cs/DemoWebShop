@@ -21,29 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_camera'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Books'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Products tagged with camera/a_1MP 60GB Hard Drive Handycam Camcorder'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Books/a_Computers'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. 1MP 60GB Hard Drive Han_396bab/a_Books'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Computers/a_Electronics'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Books/a_Home'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Electronics/a_Apparel  Shoes'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/span_Sign up for our newsletter'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Apparel  Shoes/a_Digital downloads'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Blog'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Digital downloads/a_Jewelry'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Blog/a_July                                    (2)'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Blog/a_asp.net'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Blog/a_e-commerce'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Blog/a_money'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Blog/p_By Jayashree Pakhare (buzzle.com)'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Blog/a_nopCommerce'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Jewelry/a_Gift Cards'))
 
 WebUI.closeBrowser()
 

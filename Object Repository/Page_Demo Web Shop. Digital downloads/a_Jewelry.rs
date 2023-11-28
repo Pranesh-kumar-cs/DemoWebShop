@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>94f1d901-e1d8-4965-9136-ca1698725843</webElementGuid>
+      <webElementGuid>e9bd0cb8-c4b4-44d6-b581-f338eebcb922</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/jewelry</value>
-      <webElementGuid>63412ec3-7552-4973-9912-e7b519415dc6</webElementGuid>
+      <webElementGuid>20536c2e-43fc-464d-b1c0-0142d15707db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>hover</value>
-      <webElementGuid>5cdf62b8-5c78-4da9-acc2-8a5b84674f17</webElementGuid>
+      <webElementGuid>cf1a3b46-dbe5-4f70-8ea3-7da08e56ce07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <type>Main</type>
       <value>Jewelry
         </value>
-      <webElementGuid>a6702e11-f5e4-4cd2-98d7-ffc34dce34cf</webElementGuid>
+      <webElementGuid>73709628-f00e-4371-a11f-8d18db708d19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;header-menu&quot;]/ul[@class=&quot;top-menu&quot;]/li[6]/a[@class=&quot;hover&quot;]</value>
-      <webElementGuid>7bc2881c-8a6b-4b47-b53c-f052c8d49ead</webElementGuid>
+      <webElementGuid>413b2ab3-152a-4663-97e6-0f7122b6a94b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Jewelry')]</value>
-      <webElementGuid>ed78d0d2-befa-41dd-9637-ef4404bffb4b</webElementGuid>
+      <webElementGuid>ed80ef2a-50cc-433d-963f-60f1cb1e49a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital downloads'])[1]/following::a[1]</value>
-      <webElementGuid>2d72b1cf-b643-406b-84c5-f4dec8ff401a</webElementGuid>
+      <webElementGuid>0e10a87d-ceb2-495c-848a-77d67ae51045</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apparel &amp; Shoes'])[1]/following::a[2]</value>
-      <webElementGuid>486faeec-27a7-479d-b7e5-a9032b53585c</webElementGuid>
+      <webElementGuid>24b9f326-592c-49bf-96fc-eccc04cefb12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Gift Cards'])[1]/preceding::a[1]</value>
-      <webElementGuid>e1a908f5-6aaa-4c2e-89ed-160cf04d1fc3</webElementGuid>
+      <webElementGuid>475237bd-3b62-46f1-8f25-e43e65cf7d15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[1]/preceding::a[2]</value>
-      <webElementGuid>f516afd0-1442-4b9d-8ddb-c40b54d0e3e3</webElementGuid>
+      <webElementGuid>00541d63-5543-429e-a84a-dae9415b0772</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Jewelry']/parent::*</value>
-      <webElementGuid>a3049a9b-76ed-42c8-ad37-97766c0fc478</webElementGuid>
+      <webElementGuid>09fa53c3-8d4d-4679-8794-88c3b5cfffa7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/jewelry')]</value>
-      <webElementGuid>39e51f18-57b3-43f5-a90c-060fa859d6e3</webElementGuid>
+      <webElementGuid>b304c1b3-17d9-43ec-a74b-600357ec86bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/a</value>
-      <webElementGuid>435f72a4-e295-4ad0-98cf-f8281bd66e5d</webElementGuid>
+      <webElementGuid>368f0b19-7766-4ed9-9eca-db2a72826139</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,6 +129,6 @@
       <value>//a[@href = '/jewelry' and (text() = 'Jewelry
         ' or . = 'Jewelry
         ')]</value>
-      <webElementGuid>f7fdaa9b-b8ca-4e0e-9349-8f3dbf3f69ac</webElementGuid>
+      <webElementGuid>df39d1b6-a7b4-47c4-90a2-d6b55001ad7f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

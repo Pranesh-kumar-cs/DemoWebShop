@@ -31,23 +31,19 @@ WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Fo
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Testabcxyz1234test.com'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_Last name_LastName'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_Last name_LastName'), '')
-
-WebUI.doubleClick(findTestObject('Object Repository/Page_Demo Web Shop. Account/span_Last name is required'))
-
-WebUI.doubleClick(findTestObject('Object Repository/Page_Demo Web Shop. Account/div_Gender                                 _5336a6'))
-
 WebUI.doubleClick(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_First name_FirstName'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_First name_FirstName'), '')
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_Demo Web Shop. Account/span_First name is required'))
+WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_Last name_LastName'), '')
+
+WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_Email_Email'), 'Testabcxyz1234@test.com')
+
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_Email_Email'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_Email_Email'), '')
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_Demo Web Shop. Account/span_Email is required'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Account/input_Fax number_button-1 save-address-button'))
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Account/a_Log out'))
 

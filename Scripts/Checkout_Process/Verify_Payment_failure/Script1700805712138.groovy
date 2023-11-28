@@ -29,38 +29,13 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Log
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Forgot password_button-1 login-button'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/input_You have no items in your shopping ca_bc5dba'))
-
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/span_Shopping cart'))
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/input_I agree with the terms of service and_f529a0'))
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/button_Checkout'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input_Fax number_button-1 new-address-next-_2f210c'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input_Fax number_button-1 new-address-next-_2f210c'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input__button-1 shipping-method-next-step-button'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input_Payment method_paymentmethod'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input_Check  Money Order (5.00)_paymentmethod'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input__button-1 shipping-method-next-step-button'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/div_5                    Payment information'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/select_VisaMaster cardDiscoverAmex'), 
-    'Amex', true)
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input_Card code_CardCode'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input__button-1 shipping-method-next-step-button'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/div_Select credit card                     _1c7cc4'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/input__button-1 shipping-method-next-step-button'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/a_Log out'))
 
 WebUI.closeBrowser()
 

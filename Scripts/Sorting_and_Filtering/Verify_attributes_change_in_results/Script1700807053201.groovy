@@ -21,19 +21,17 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Log in'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Email_Email'), 'testabcxyz1234@test.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Password_Password'), 'cvW8qx4B2o3F4VwP/kNsqA==')
+
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Forgot password_button-1 login-button'))
+
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Books'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Demo Web Shop. Books/select_4812'), 'https://demowebshop.tricentis.com/books?pagesize=12', 
-    true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Demo Web Shop. Books/select_GridList'), 'https://demowebshop.tricentis.com/books?pagesize=12&viewmode=list', 
-    true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Demo Web Shop. Books/select_4812'), 'https://demowebshop.tricentis.com/books?pagesize=4&viewmode=list', 
-    true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Demo Web Shop. Books/select_PositionName A to ZName Z to APrice _c128dc'), 
-    'https://demowebshop.tricentis.com/books?pagesize=4&viewmode=list&orderby=11', true)
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Books/a_Log out'))
 
 WebUI.closeBrowser()
 

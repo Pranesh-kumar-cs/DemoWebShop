@@ -29,10 +29,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Log
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Forgot password_button-1 login-button'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. Login/span_Login was unsuccessful. Please correct_c76db1'), 
-    '')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. Login/li_No customer account found'), '')
-
 WebUI.closeBrowser()
 

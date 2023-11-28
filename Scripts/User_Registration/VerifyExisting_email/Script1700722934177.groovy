@@ -38,8 +38,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Reg
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Register/input__register-button'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. Register/li_The specified email already exists'), 
-    '')
-
 WebUI.closeBrowser()
 

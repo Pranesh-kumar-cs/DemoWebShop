@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='save-info-button']</value>
+         <value>//input[@value='Change password']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;save-info-button&quot;]</value>
+         <value>input.button-1.change-password-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5794a557-9f55-48c3-8be1-a014e1b59f7b</webElementGuid>
+      <webElementGuid>814c7eba-66ec-4282-af01-92d084c7a77d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,31 +30,31 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>76c94588-cee5-4913-83c3-c93d5b908a99</webElementGuid>
+      <webElementGuid>2d800037-9d68-4b66-a025-b97162b11dbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>button-1 save-customer-info-button</value>
-      <webElementGuid>f2e8be8b-4a4f-4618-a838-3f74502714d4</webElementGuid>
+      <value>button-1 change-password-button</value>
+      <webElementGuid>d6b8da65-743e-4cbb-9138-3e7291b7e909</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Save</value>
-      <webElementGuid>3ab2c92d-cd2c-479d-b556-bc8f71f9455e</webElementGuid>
+      <value>Change password</value>
+      <webElementGuid>20996895-083c-4db4-a432-3258607721e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;center-2&quot;]/div[@class=&quot;page account-page customer-info-page&quot;]/div[@class=&quot;page-body&quot;]/form[1]/div[@class=&quot;buttons&quot;]/input[@class=&quot;button-1 save-customer-info-button&quot;]</value>
-      <webElementGuid>ab3226c6-d5f2-4f81-b917-62759eaaddef</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;center-2&quot;]/form[1]/div[@class=&quot;page account-page change-password-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;buttons&quot;]/input[@class=&quot;button-1 change-password-button&quot;]</value>
+      <webElementGuid>c3bf1ad0-ccd9-464e-9c32-9219a0945ac3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,15 +62,15 @@
       <name>name</name>
       <type>Main</type>
       <value>save-info-button</value>
-      <webElementGuid>3c6daf59-ca23-44fc-b133-d1f2b3c79c28</webElementGuid>
+      <webElementGuid>0ee355b7-6bc4-4355-91d0-beb8e0153327</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='save-info-button']</value>
-      <webElementGuid>9747b844-bcb7-4538-9e8a-1053d5c654fb</webElementGuid>
+      <value>//input[@value='Change password']</value>
+      <webElementGuid>1c752379-2321-463d-afbe-7e952a427c32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,23 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/input</value>
-      <webElementGuid>1ade0916-adf5-4683-b672-14128af62b27</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'submit' and @name = 'save-info-button']</value>
-      <webElementGuid>f7e88be9-f721-4a1f-a1d1-7dd8efac2df7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//input[@value='Change password']</value>
-      <webElementGuid>446b6d8e-e377-46dd-829d-ea9d27d05aa3</webElementGuid>
+      <webElementGuid>dd4f70bd-4eb3-484a-b23d-ccfb812d3115</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +86,23 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>94ced1a8-e622-4ddd-9c49-9f1a0248f2f7</webElementGuid>
+      <webElementGuid>3d456657-772b-416f-9bc3-dff8f3b4b185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='save-info-button']</value>
+      <webElementGuid>ac994848-27d5-4bca-bf55-818f67bb954e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit' and @name = 'save-info-button']</value>
+      <webElementGuid>9841c558-5949-40d7-8a95-9783fb2a4bee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

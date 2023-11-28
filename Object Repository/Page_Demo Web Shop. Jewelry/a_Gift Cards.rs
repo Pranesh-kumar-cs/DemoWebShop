@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>292a3c0e-48bb-4482-b3ac-90a497cd160e</webElementGuid>
+      <webElementGuid>ae267e0e-1b8a-4965-aaa7-f19cab57019b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/gift-cards</value>
-      <webElementGuid>62bb723a-0c49-47b3-ad64-ae22f34cc5f9</webElementGuid>
+      <webElementGuid>fc93d9b9-9850-45c1-9ff4-2946d03bde2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>hover</value>
-      <webElementGuid>23cd6e1a-5b66-4318-b2ab-99b3f3945ebe</webElementGuid>
+      <webElementGuid>8ecf5467-7ebc-42fc-80ed-727379a18b5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <type>Main</type>
       <value>Gift Cards
         </value>
-      <webElementGuid>e6613a79-0cf4-4dcd-8936-76286ce1b2e6</webElementGuid>
+      <webElementGuid>cb58c316-0004-4a21-9712-06ae2192310e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;header-menu&quot;]/ul[@class=&quot;top-menu&quot;]/li[7]/a[@class=&quot;hover&quot;]</value>
-      <webElementGuid>c92eed1f-9551-4f00-9cc8-802b6a4fd11a</webElementGuid>
+      <webElementGuid>4b87bfb0-4d5e-41ec-bfb5-e834ec4210c7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Gift Cards')]</value>
-      <webElementGuid>b516be0e-a04a-408f-bf82-8e17289ab143</webElementGuid>
+      <webElementGuid>346d55b9-dab7-4910-9f28-49aadbf00244</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jewelry'])[1]/following::a[1]</value>
-      <webElementGuid>48e2fd6c-c53b-4fa3-ae8e-60379e87359b</webElementGuid>
+      <webElementGuid>3dae9351-c5ce-415b-a999-218a6faafdcf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital downloads'])[1]/following::a[2]</value>
-      <webElementGuid>19b8c82c-4b3c-4cc6-8b79-300dda99b0dc</webElementGuid>
+      <webElementGuid>244d8869-92c4-4c6b-9b4f-c56f34da8e8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[1]/preceding::a[1]</value>
-      <webElementGuid>f47c1088-3bfc-4e17-a92f-be51ded12cf7</webElementGuid>
+      <webElementGuid>2097d58e-1adc-4a73-b30f-ae909000f416</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Books'])[2]/preceding::a[2]</value>
-      <webElementGuid>57119c9c-feed-4511-8b57-ad3306761661</webElementGuid>
+      <webElementGuid>866e998d-e919-462e-8975-4d709883f275</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Gift Cards']/parent::*</value>
-      <webElementGuid>7f522279-f135-4aa7-9796-37eee8b53bed</webElementGuid>
+      <webElementGuid>bae7a0a1-8f3a-479b-9e7b-cc98bb1432d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/gift-cards')]</value>
-      <webElementGuid>24615dce-fe65-41fc-924a-b65f3488fb7e</webElementGuid>
+      <webElementGuid>14d054bf-6698-4a63-a720-1f6853b02f50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[7]/a</value>
-      <webElementGuid>4ba394a1-a87e-4393-80b7-6a3c8da8f45e</webElementGuid>
+      <webElementGuid>b3d6b93b-fef4-4294-917a-a3ea13751d2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,6 +129,6 @@
       <value>//a[@href = '/gift-cards' and (text() = 'Gift Cards
         ' or . = 'Gift Cards
         ')]</value>
-      <webElementGuid>deb06c92-75d0-484d-a397-46205a81c716</webElementGuid>
+      <webElementGuid>017434a9-440f-449f-bc41-54ab192659ad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

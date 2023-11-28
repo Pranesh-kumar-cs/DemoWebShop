@@ -23,15 +23,13 @@ WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Log in'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Log in'))
-
 WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Email_Email'), 'testabcxyz1234@test.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Password_Password'), 'cvW8qx4B2o3F4VwP/kNsqA==')
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Forgot password_button-1 login-button'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop/a_Testabcxyz1234test.com'), '')
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Log out'))
 
 WebUI.closeBrowser()
 

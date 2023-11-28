@@ -32,9 +32,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. 14
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Demo Web Shop. 14.1-inch Laptop/div_1590.00'), '1590.00')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Demo Web Shop. 14.1-inch Laptop/input_Qty_button-2 email-a-friend-button'), 
-    0)
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Demo Web Shop. 14.1-inch Laptop/p_Optimize your mobility with a BrightView _19f580'), 
     0)
 

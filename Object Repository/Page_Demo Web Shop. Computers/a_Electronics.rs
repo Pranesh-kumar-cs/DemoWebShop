@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5aa0a836-9af2-432d-8781-7d36bf7bc338</webElementGuid>
+      <webElementGuid>bf08e9d9-d97e-4346-aa6f-ebc0369c97e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/electronics</value>
-      <webElementGuid>1976be30-d099-4a7c-a361-900940546f57</webElementGuid>
+      <webElementGuid>25a29fae-4bd3-4dfe-ac16-90c9dfa88ae9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>hover</value>
-      <webElementGuid>5225210a-09d8-49be-b7a0-f64c80af4d5d</webElementGuid>
+      <webElementGuid>d4da4b41-af8e-48d0-9e8d-c3e5349ec3d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <type>Main</type>
       <value>Electronics
         </value>
-      <webElementGuid>1767fad8-fc41-4070-9509-84c1cb8b825b</webElementGuid>
+      <webElementGuid>8b09bea8-319b-45cf-9df3-91a3d9366337</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;header-menu&quot;]/ul[@class=&quot;top-menu&quot;]/li[3]/a[@class=&quot;hover&quot;]</value>
-      <webElementGuid>0315df22-6b64-45c0-a969-cac15db84947</webElementGuid>
+      <webElementGuid>7b5414d6-4cb5-45ea-9ecf-e100cd8e4a15</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Electronics')]</value>
-      <webElementGuid>6650f1ce-0653-4ee2-9821-b5d46e8387d7</webElementGuid>
+      <webElementGuid>10364099-7192-4b78-adfe-1004481844c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessories'])[1]/following::a[1]</value>
-      <webElementGuid>3d41b7e7-1eaa-4169-a8eb-7493eba2a9ff</webElementGuid>
+      <webElementGuid>594f297a-5852-4e4f-932d-6d9630310ec5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Notebooks'])[1]/following::a[2]</value>
-      <webElementGuid>69659048-667c-4556-9342-6e990663ee80</webElementGuid>
+      <webElementGuid>9227a981-7a29-4415-adef-7bdc9b1873e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Camera, photo'])[1]/preceding::a[1]</value>
-      <webElementGuid>f5e0380d-d544-4c1a-a045-fb308a11711a</webElementGuid>
+      <webElementGuid>8281d89a-3d8d-49cd-8abb-c22753f50917</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cell phones'])[1]/preceding::a[2]</value>
-      <webElementGuid>b5698488-ca32-4c13-ac55-f9893afbe341</webElementGuid>
+      <webElementGuid>e3a469f4-98ce-4521-91b4-4d34236cfb8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Electronics']/parent::*</value>
-      <webElementGuid>ee9c886c-64eb-4997-8233-bedada6094d5</webElementGuid>
+      <webElementGuid>81338394-c06c-4731-a63c-b26834ed00cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/electronics')]</value>
-      <webElementGuid>8bbe0111-14e7-453c-836d-e13c8052d422</webElementGuid>
+      <webElementGuid>730a8507-a0d0-421d-ac0e-816b1f456b37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/ul/li[3]/a</value>
-      <webElementGuid>fa6cc696-0680-45c1-8d2b-d0cfd0da5b2c</webElementGuid>
+      <webElementGuid>9e1c0bd5-8c06-4d79-8f19-7b6bf62a79c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,6 +129,6 @@
       <value>//a[@href = '/electronics' and (text() = 'Electronics
         ' or . = 'Electronics
         ')]</value>
-      <webElementGuid>5cbbeb8e-3be3-4bec-aac2-397c70b9b943</webElementGuid>
+      <webElementGuid>32ae9394-73a1-4f18-8977-c91b41d1b029</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

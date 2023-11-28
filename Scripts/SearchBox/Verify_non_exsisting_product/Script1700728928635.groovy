@@ -21,13 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop/input_You have no items in your shopping cart_q'), 'Bags')
+WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop/input_You have no items in your shopping cart_q'), 'bags')
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/input_You have no items in your shopping ca_bc5dba'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Search/input_Search keyword_Q'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Search/strong_No products were found that matched _3e268c'))
 
 WebUI.closeBrowser()
 

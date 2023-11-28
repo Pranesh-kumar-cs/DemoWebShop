@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a86d4236-ad9a-4f2e-bb60-1ec728d3c8db</webElementGuid>
+      <webElementGuid>37e8bbd1-9a3e-4e84-90b2-f3c1733d471b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-box single-line</value>
-      <webElementGuid>bbecfa61-cac4-49e5-a76a-f41f86cebf94</webElementGuid>
+      <webElementGuid>2320cd6e-6301-48c1-b8a6-d3f6c7ad1a4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>48b4350d-bf29-4370-a21a-3ed4fd0717fc</webElementGuid>
+      <webElementGuid>c7963ea5-0534-4020-bf12-2762b9b647db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>Last name is required.</value>
-      <webElementGuid>a88a2cdd-8808-464d-8186-61ca9f28f9fc</webElementGuid>
+      <webElementGuid>ce9c2d05-9063-4511-90b5-7732940792a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>LastName</value>
-      <webElementGuid>30a1b78b-92fc-41a3-8232-8f51ea9e10c0</webElementGuid>
+      <webElementGuid>f8ea7db7-6f6f-4397-a879-68f8a95b9fc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>LastName</value>
-      <webElementGuid>4745118b-f6d5-4d22-bf6c-6ccdd0b532cb</webElementGuid>
+      <webElementGuid>f1604ac8-87ae-4cc1-a932-ae73b111c76a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>0be0dc6d-bb64-494d-9b22-183fe09024ac</webElementGuid>
+      <webElementGuid>4c7400c1-7064-47f8-9606-dfc79ae2357f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Kumar</value>
-      <webElementGuid>a5d19d28-0af7-488e-98e5-9ef032077d00</webElementGuid>
+      <webElementGuid>fedba488-3bbc-4083-ba38-5decbb02e83a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;LastName&quot;)</value>
-      <webElementGuid>150bcd10-c8e8-4518-b0e6-bbc10371a87d</webElementGuid>
+      <webElementGuid>fd8ed8d0-192b-4a3f-8505-a6a53537a056</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='LastName']</value>
-      <webElementGuid>a734e98d-93cf-4577-ba4e-7233d6015ac0</webElementGuid>
+      <webElementGuid>9da58493-63aa-4e41-bf7c-9a4aefd80405</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[3]/input</value>
-      <webElementGuid>7085179f-ce10-4098-a212-2fa53343508c</webElementGuid>
+      <webElementGuid>6d46b84b-1fba-4189-9ba3-29e71c574629</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'LastName' and @name = 'LastName' and @type = 'text']</value>
-      <webElementGuid>b6876a55-1f27-4d77-a753-bd42511c8748</webElementGuid>
+      <webElementGuid>3051559c-b174-4b0e-858e-2d603a9b6681</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

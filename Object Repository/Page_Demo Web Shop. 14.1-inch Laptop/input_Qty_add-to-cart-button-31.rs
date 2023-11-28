@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>46b6d3ed-df32-435b-bff8-30f56c2a3e76</webElementGuid>
+      <webElementGuid>3fbf5c6f-cd67-49ba-8a05-8bb013c0e70e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5a92dae9-64b5-49a0-9a09-25a06bf7c6a4</webElementGuid>
+      <webElementGuid>e65dcdef-d904-4fd4-a574-8005b01bcdb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>add-to-cart-button-31</value>
-      <webElementGuid>30ece303-75f1-4430-80df-c03891450c9d</webElementGuid>
+      <webElementGuid>adab4854-0ec6-4c59-aa6c-4fa7b328c757</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button-1 add-to-cart-button</value>
-      <webElementGuid>23afbde0-a5da-410b-9864-00be99f5eaac</webElementGuid>
+      <webElementGuid>2d02df1c-bfeb-4664-a77e-736644f39dfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Add to cart</value>
-      <webElementGuid>9621b301-04ff-4ffe-a981-7deda72e344f</webElementGuid>
+      <webElementGuid>9c33325a-fffb-43d5-b1b0-ab1700bbcb5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-productid</name>
       <type>Main</type>
       <value>31</value>
-      <webElementGuid>447a1150-5561-4f2c-8d98-1dec5e1355df</webElementGuid>
+      <webElementGuid>cbf226a1-b19f-4258-83bf-74305449b79b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>AjaxCart.addproducttocart_details('/addproducttocart/details/31/1', '#product-details-form');return false;</value>
-      <webElementGuid>53038c4a-3df5-4a8e-a5f1-cc6a09a015f7</webElementGuid>
+      <webElementGuid>961eb946-d296-41f9-935e-e1ce535c14d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;add-to-cart-button-31&quot;)</value>
-      <webElementGuid>88081761-d9a3-4385-9d00-4234e030f113</webElementGuid>
+      <webElementGuid>5c1389ed-fe42-4cc6-be0f-9f9a99240fb4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='add-to-cart-button-31']</value>
-      <webElementGuid>2901b193-4297-46b6-8484-342cae8569fa</webElementGuid>
+      <webElementGuid>d75479cf-ef0e-4ba0-aaa5-76f4033831ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='product-details-form']/div/div/div[2]/div[6]/div/input[2]</value>
-      <webElementGuid>7cfb703c-c913-47a7-b0c7-199b7b35e649</webElementGuid>
+      <webElementGuid>96479e9b-47fe-44ed-a5e6-5bba7e95f1d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input[2]</value>
-      <webElementGuid>8700d51d-2deb-4812-89dc-2dd39742177c</webElementGuid>
+      <webElementGuid>c2e71a67-7344-4554-aea4-aca74c01e140</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button' and @id = 'add-to-cart-button-31']</value>
-      <webElementGuid>f5965180-d54b-4d9e-be97-3504be4909d2</webElementGuid>
+      <webElementGuid>27d2e5a0-d46f-4e83-a8b5-a3f2add6a21b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

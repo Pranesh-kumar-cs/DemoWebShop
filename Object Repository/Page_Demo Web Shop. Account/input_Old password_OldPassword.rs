@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bafb5497-6462-45eb-ba12-e0747aa77981</webElementGuid>
+      <webElementGuid>fafc1c77-09dc-4b8a-b68b-dddb73d707fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-box single-line password</value>
-      <webElementGuid>b9759ea3-0ea5-4d22-a736-07a76994d829</webElementGuid>
+      <webElementGuid>796b15ff-89a4-4f9e-b63a-d1f9da10d061</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>148280b1-e243-4a39-9a41-fecd458e6b2e</webElementGuid>
+      <webElementGuid>7a47728b-9ea1-4f2b-99a0-ede67853dbb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>Old password is required.</value>
-      <webElementGuid>4e74c523-8565-4882-9f13-21bc5dc2925d</webElementGuid>
+      <webElementGuid>af51131c-8409-4914-ac2f-ffa88186003b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>OldPassword</value>
-      <webElementGuid>5f9c9574-2c6f-4035-b783-5f1188675066</webElementGuid>
+      <webElementGuid>1ed3ae72-d548-4eb8-b726-20364a24468d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>OldPassword</value>
-      <webElementGuid>55595c80-c4f8-4e2f-a206-25eddd1629ee</webElementGuid>
+      <webElementGuid>53e4e87e-02af-48ba-b46f-69533fca7c9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>b5f38e8d-212d-4e1e-af46-03c7e422a27d</webElementGuid>
+      <webElementGuid>ff765ad0-e2ff-4535-90ea-7e9aeb26f697</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;OldPassword&quot;)</value>
-      <webElementGuid>a132db79-af66-4758-b152-819040baa30a</webElementGuid>
+      <webElementGuid>83135b5b-a10c-4aa9-a743-78d64d031ed5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='OldPassword']</value>
-      <webElementGuid>f195c024-6e3f-4d91-9189-6aa323d7ac0f</webElementGuid>
+      <webElementGuid>cf71c9ba-b567-4b70-a73f-8bfaad1c6520</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div[2]/div[2]/div/div/input</value>
-      <webElementGuid>fb088da6-2224-4d21-9faa-9b8acfc89c4b</webElementGuid>
+      <webElementGuid>a173f1fe-2e86-4110-82e4-e1f07f9a95cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'OldPassword' and @name = 'OldPassword' and @type = 'password']</value>
-      <webElementGuid>032fd7ac-681d-4556-a3e6-adf62ab711cc</webElementGuid>
+      <webElementGuid>4dc02a07-b927-44d2-87f0-bbdf13eb9087</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

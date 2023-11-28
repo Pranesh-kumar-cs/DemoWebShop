@@ -19,34 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.closeBrowser()
-
-WebUI.openBrowser('')
-
 WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/li_Computers'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/li_Computers'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/li_Electronics'))
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Computers'))
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Computers/a_Desktops'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Demo Web Shop. Desktops/select_PositionName A to ZName Z to APrice _c128dc'), 
-    'https://demowebshop.tricentis.com/desktops?orderby=5', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Demo Web Shop. Desktops/select_4812'), 'https://demowebshop.tricentis.com/desktops?orderby=5&pagesize=12', 
-    true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Demo Web Shop. Desktops/select_GridList'), 'https://demowebshop.tricentis.com/desktops?orderby=5&pagesize=12&viewmode=list', 
-    true)
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Desktops/span_1000.00'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Desktops/a_Remove Filter'))
 
 WebUI.closeBrowser()
 

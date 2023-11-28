@@ -23,11 +23,9 @@ WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Log in'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Email_Email'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Email_Email'))
-
 WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Email_Email'), 'testabcxyz1234@test.com')
+
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Email_Email'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Password_Password'), 'cvW8qx4B2o3F4VwP/kNsqA==')
 
@@ -37,25 +35,13 @@ WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_14.1-inch Lap
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. 14.1-inch Laptop/input_Qty_add-to-cart-button-31'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. 14.1-inch Laptop/a_Simple Computer'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Simple Computer/input__product_attribute_75_5_31'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Simple Computer/input_Image Viewer_product_attribute_75_8_35'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Simple Computer/input_Qty_add-to-cart-button-75'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Simple Computer/span_Shopping cart'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. 14.1-inch Laptop/span_Shopping cart'))
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/input_Qty_itemquantity3715593'))
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/input_Qty_itemquantity3715593'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/th_Remove'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/input_Qty_itemquantity3715593'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/span_Shopping cart'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/a_Log out'))
 
 WebUI.closeBrowser()
 

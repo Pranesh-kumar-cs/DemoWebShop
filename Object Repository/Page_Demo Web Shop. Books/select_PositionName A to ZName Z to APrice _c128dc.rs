@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>0dcd299a-fbd8-4adb-8133-6e1a4ec41403</webElementGuid>
+      <webElementGuid>bca55d6e-c7ad-489a-8bf4-a2c83e05fd5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>products-orderby</value>
-      <webElementGuid>daab32c2-4c14-4fe6-a5af-8a54cba2fbfa</webElementGuid>
+      <webElementGuid>011a0459-bb89-49ef-947f-7d0e63f1bed7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>products-orderby</value>
-      <webElementGuid>88970774-399d-4b55-86be-1d4cbddc3f0c</webElementGuid>
+      <webElementGuid>e1516fb9-ec57-4047-bbb9-b6edebaf1172</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>onchange</name>
       <type>Main</type>
       <value>setLocation(this.value);</value>
-      <webElementGuid>b9f65d54-3807-495d-bb71-889127a4ea2c</webElementGuid>
+      <webElementGuid>3b1382b7-425e-4ce1-a508-23a4b40aca1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -60,7 +60,7 @@ Price: Low to High
 Price: High to Low
 Created on
 </value>
-      <webElementGuid>5c8ea5e2-86e0-45eb-950d-56b2edfa447b</webElementGuid>
+      <webElementGuid>3b66afdc-781d-47f0-be0c-859f5df9ca29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@ Created on
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;products-orderby&quot;)</value>
-      <webElementGuid>fcc96e8d-cca5-4915-a48a-987b22880876</webElementGuid>
+      <webElementGuid>ca1a8297-fa6c-4cf2-8a45-0911f14a27cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -76,7 +76,7 @@ Created on
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='products-orderby']</value>
-      <webElementGuid>2882c33b-b817-414b-b795-15aaaa3ebb8d</webElementGuid>
+      <webElementGuid>de52a074-9db7-4a42-aa6f-249c144abca7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@ Created on
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by'])[1]/following::select[1]</value>
-      <webElementGuid>4c61da10-f8e1-4cb2-a6de-d401d680f355</webElementGuid>
+      <webElementGuid>f577908d-c74f-4cc3-bc7e-4e014b7b9d02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@ Created on
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View as'])[1]/following::select[2]</value>
-      <webElementGuid>e5c5ebbe-e757-45a0-b716-73f3423fa6a4</webElementGuid>
+      <webElementGuid>155c66d2-3780-4e7a-9296-a41f6bd40135</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@ Created on
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Display'])[1]/preceding::select[1]</value>
-      <webElementGuid>fe10dcb8-90bc-4f1c-a8aa-c4cf2d54deaf</webElementGuid>
+      <webElementGuid>5380a45d-1057-4f11-8c02-4fb9f62db746</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@ Created on
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='per page'])[1]/preceding::select[2]</value>
-      <webElementGuid>938c39a0-c28f-49eb-a908-1266c45024d2</webElementGuid>
+      <webElementGuid>1e998113-5816-4e43-a505-d8a4075d9837</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@ Created on
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/select</value>
-      <webElementGuid>3ba174e0-e410-4805-a308-54e719a623ca</webElementGuid>
+      <webElementGuid>a5fe03ba-2a60-4af6-aa42-43349495630d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,6 +136,6 @@ Price: Low to High
 Price: High to Low
 Created on
 ')]</value>
-      <webElementGuid>49e6ce3f-5653-43e0-82f5-d25558483e2b</webElementGuid>
+      <webElementGuid>70ab0f94-1283-4404-ad9c-eda1a41f1017</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

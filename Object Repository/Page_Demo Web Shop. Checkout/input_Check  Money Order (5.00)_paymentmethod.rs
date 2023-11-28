@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6e860b9b-f2f4-4cd1-ace0-b07339bfedbe</webElementGuid>
+      <webElementGuid>ab458129-134a-4005-bac6-229c66d68f56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>paymentmethod_2</value>
-      <webElementGuid>86e1f103-c7fc-4f7c-9c0f-bfc37f986e72</webElementGuid>
+      <webElementGuid>da09eee5-f3c3-4013-9895-9b26397bd485</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>3fb9f56b-1e09-44a6-b06a-a634ab727efa</webElementGuid>
+      <webElementGuid>8131b6a8-3586-44ef-ad38-6799a7237d21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>paymentmethod</value>
-      <webElementGuid>9153f4f1-cba1-4af1-8ebe-8c724d6347ce</webElementGuid>
+      <webElementGuid>c9915a02-4c50-41ff-8f2e-05437f874932</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Payments.Manual</value>
-      <webElementGuid>21c90653-4aef-405f-af38-b036a0054aba</webElementGuid>
+      <webElementGuid>0131f807-0fb0-4f42-91f0-44199acd9789</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;paymentmethod_2&quot;)</value>
-      <webElementGuid>a017aec3-18b3-4c98-882a-3a41b8bba1d0</webElementGuid>
+      <webElementGuid>4de3bf68-13db-4fec-a2aa-f3b5df587aef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='paymentmethod_2']</value>
-      <webElementGuid>dbeda800-37ec-49ff-b913-485b508b3088</webElementGuid>
+      <webElementGuid>009a61be-ae32-4825-97af-17bb0013edde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='checkout-payment-method-load']/div/div/ul/li[3]/div/div[2]/input</value>
-      <webElementGuid>ce86aa84-38c7-4dd8-906e-912f6164dda3</webElementGuid>
+      <webElementGuid>8f2d9492-c7d1-4f1c-ab9f-6b9f7c0a6100</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/div[2]/input</value>
-      <webElementGuid>f64d145a-2ef6-4942-b414-cffec3d4217d</webElementGuid>
+      <webElementGuid>86a34e0b-a05e-43ba-8341-c0bf5cb7ef3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'paymentmethod_2' and @type = 'radio' and @name = 'paymentmethod']</value>
-      <webElementGuid>60491c92-9c42-42cd-a8fd-e0faf1285f4b</webElementGuid>
+      <webElementGuid>57667553-8a88-4537-89fa-6009e107a9bd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

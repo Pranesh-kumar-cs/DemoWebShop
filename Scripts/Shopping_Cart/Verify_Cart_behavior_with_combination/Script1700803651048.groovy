@@ -21,11 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_14.1-inch Laptop'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. 14.1-inch Laptop/input_Qty_add-to-cart-button-31'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. 14.1-inch Laptop/a_Log in'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/a_Log in'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Email_Email'), 'testabcxyz1234@test.com')
 
@@ -35,25 +31,11 @@ WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Login/input_Fo
 
 WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop/span_Shopping cart'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/a_14.1-inch Laptop'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/input_I agree with the terms of service and_f529a0'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. 14.1-inch Laptop/input_Qty_add-to-cart-button-31'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/button_Checkout'))
 
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. 14.1-inch Laptop/span_Shopping cart'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/input_Qty_button-2 email-a-friend-button'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/input_Qty_button-2 email-a-friend-button'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/input_Qty_button-2 email-a-friend-button'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Shopping Cart/a_Notebooks'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Notebooks/a_14.1-inch Laptop'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. 14.1-inch Laptop/input_Qty_button-2 email-a-friend-button'))
-
-WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Simple Computer/span_Shopping cart'))
+WebUI.click(findTestObject('Object Repository/Page_Demo Web Shop. Checkout/a_Log out'))
 
 WebUI.closeBrowser()
 

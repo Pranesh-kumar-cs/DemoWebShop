@@ -6,12 +6,12 @@
    <elementGuidId>99084599-8250-4337-89a8-e4db5461793b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#RememberMe</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='RememberMe']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#RememberMe</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6e62f549-a136-46f2-b199-72d69198233d</webElementGuid>
+      <webElementGuid>b453c92a-e582-4d8b-bdff-f531b1462d16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>RememberMe</value>
-      <webElementGuid>0d56fedb-7d57-4b7d-b060-6de801d6006b</webElementGuid>
+      <webElementGuid>21f1b192-c54e-4c28-a141-c49323cb47b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>RememberMe</value>
-      <webElementGuid>77eba136-9086-4811-84f6-cf1e49c6e3f4</webElementGuid>
+      <webElementGuid>7c854bea-bc41-4f60-b455-23be650f3dd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>0cc1f0ca-6369-4056-a4b5-2581b2ce0cd5</webElementGuid>
+      <webElementGuid>b73a75e0-9ca7-4a17-8f72-851c7f788e1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>value</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>005f368e-5d25-41f4-b40f-ec9d47b35540</webElementGuid>
+      <webElementGuid>25b9da1c-0ebc-438d-b91f-8f87e95a9716</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;RememberMe&quot;)</value>
-      <webElementGuid>f9fdfb21-bafa-4c9b-86ff-7ff9aacbb5e3</webElementGuid>
+      <webElementGuid>e6e2df9e-37fa-4f16-8807-1331ea4c536d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='RememberMe']</value>
-      <webElementGuid>b5de8889-aa58-4690-8bb4-fd145a88dba6</webElementGuid>
+      <webElementGuid>d591830b-91af-44ec-be91-b06d529f7e6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/input</value>
-      <webElementGuid>c8a44a1a-eb36-4c0e-9f45-b140fdef1641</webElementGuid>
+      <webElementGuid>a4d57c97-2664-455d-990f-e7857cef50c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'RememberMe' and @name = 'RememberMe' and @type = 'checkbox']</value>
-      <webElementGuid>e23c5662-d82c-44c0-ae3a-a4e4c1d6d694</webElementGuid>
+      <webElementGuid>4dfbb18b-8f87-4a02-9be0-c845e74ede45</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
